@@ -12,7 +12,20 @@ The interactive dashboard has been built as a portable web application that runs
   * **Interactive Tabs:** Swap between the live chart grid (**Dashboard**) and the executive story report (**Business Story**).
   * **Business Insights:** Dynamic context notes update automatically alongside the visualizations.
 
----
+ ## Dashboard Screenshots
+
+![Dashboard 1](screenshots/image.png)
+
+![Dashboard 2](screenshots/image2.png)
+
+![Dashboard 3](screenshots/image3.png)
+
+![Dashboard 4](screenshots/image4.png)
+
+![Dashboard 5](screenshots/image5.png)
+
+
+
 
 ## 📂 Repository Structure
 
